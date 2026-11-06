@@ -72,3 +72,43 @@ Developed as part of the KHIT Flutter Application Development Programme.
 
 ## Project Status
 Android APK is available in the `apk` folder.
+
+## About the Project
+Smart Expense Tracker is a simple and user-friendly mobile application developed using Flutter and Dart. It helps users manage their daily income and expenses in one place.
+
+Main Features
+Add income and expense details.
+
+View transaction history.
+
+Edit and delete transactions.
+
+Calculate total income, expenses, and balance.
+
+View category-wise expense reports.
+
+Save transaction details locally.
+
+Technologies Used
+Flutter
+
+Dart
+
+Provider
+
+SharedPreferences
+
+Project Objective
+The main objective of this project is to help users monitor their spending habits, organize financial records, and manage their personal finances efficiently.
+
+Future Enhancements
+Monthly budget planning.
+
+Export expense reports.
+
+Cloud backup and synchronization.
+
+Improved financial analytics.
+
+Conclusion
+Smart Expense Tracker makes everyday expense management easier through a simple
