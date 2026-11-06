@@ -55,8 +55,7 @@ Developed as part of the KHIT Flutter Application Development Programme.
 
 ![Home Screen](screenshots/home.png.png)
 
-![Expense Screen](screenshots/expense.png)
-
+![Add Expense](screenshots/add-expense.png.png)
 
 ### Reports
 ![Reports](screenshots/reports.png)
