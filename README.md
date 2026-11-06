@@ -110,5 +110,11 @@ Cloud backup and synchronization.
 
 Improved financial analytics.
 
-Conclusion
+
+
+
+
+## Conclusion
 Smart Expense Tracker makes everyday expense management easier through a simple
+
+
