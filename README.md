@@ -57,7 +57,7 @@ Developed as part of the KHIT Flutter Application Development Programme.
 ### Add Expense Screen
 ![Add Expense](add-expense.png.png)
 ### Report Screen
-![Report Screen](report.png.png)
+![Reports Screen](reports.png.png)
 
 
 ## Testing
