@@ -53,11 +53,10 @@ Transaction information is stored locally on the device using SharedPreferences.
 Developed as part of the KHIT Flutter Application Development Programme.
 ## Application Screenshots
 
-### Home Dashboard
-![Home Dashboard](screenshots/home.png)
+![Home Screen](screenshots/home.png)
 
-### Add Expense
-![Add Expense](screenshots/add-expense.png)
+![Expense Screen](screenshots/expense.png)
+
 
 ### Reports
 ![Reports](screenshots/reports.png)
